@@ -67,9 +67,9 @@ I'm Effa, also known as `3FFYP4CK`. I work in GRC and blue team security: audits
 
 ### Recent writing
 
-- [From Clearing HTB CDSA to Teaching Blue Team Security](https://effabinteashfaq.vercel.app/writeups/cdsa-journey/): preparing for and passing the CDSA exam, then teaching it in a workshop.
+- [My CDSA Journey](https://effabinteashfaq.vercel.app/writeups/cdsa-journey/): preparing for and passing the CDSA exam, then teaching it in a workshop.
 - [One Control, Five Frameworks](https://effabinteashfaq.vercel.app/writeups/one-control-five-frameworks/): mapping one access control across five frameworks so the audit work is done once.
-- [Lattice Cryptography Without the Heavy Maths](https://effabinteashfaq.vercel.app/writeups/lattice-cryptography-without-the-heavy-maths/): a plain-language introduction to lattice-based cryptography and why it holds up against quantum computers.
+- [Lattice Crypto, Minus the Maths](https://effabinteashfaq.vercel.app/writeups/lattice-cryptography-without-the-heavy-maths/): a plain-language introduction to lattice-based cryptography and why it holds up against quantum computers.
 
 ### Tools
 
