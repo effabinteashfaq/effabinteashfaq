@@ -12,7 +12,7 @@
 
 ### About
 
-I'm Effa, also known as `3FFYP4CK`. I work in GRC and blue team security: audits, risk and ISO standards on one side, logs and investigations on the other. Currently doing a Masters in Information Security at MCS, NUST.
+I'm Effa. I work in GRC and blue team security: audits, risk and ISO standards on one side, logs and investigations on the other. Currently doing a Masters in Information Security at MCS, NUST.
 
 ### Certifications
 
